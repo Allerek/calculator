@@ -179,8 +179,8 @@ const App: React.FC = () => {
       <div className="app-container">
         <header>
           <div className="brand-title">
-            <h1>Deutsche Style</h1>
-            <span>Studio Tuningu</span>
+            <h1>Kalkulator tuningu .devGaming</h1>
+            <span>by Allerek</span>
           </div>
           <div className="header-stats" style={{ gap: '1.5rem', flexWrap: 'wrap' }}>
             <div className="stat-box">
